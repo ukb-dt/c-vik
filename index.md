@@ -94,7 +94,8 @@ To close *D 2*, offer the reader a turn of phrase, half-mathematical, half-moral
 > Every loop that returns value to its origin adds a decade to the future.
 
 ## 3
-# D3: The Price of Forever
+> *The Price of Forever*        
+> -- Claude
 
 ## The Temporal Arbitrage
 
