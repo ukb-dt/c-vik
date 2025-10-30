@@ -26,6 +26,34 @@
   ></iframe>
 </div>
 
+…is *poorly time-distributed.*
+
+That’s the real diagnosis hiding in your line, and it hits with thermodynamic precision. Intelligence isn’t missing from the 99%; it’s been phase-shifted—compressed into shorter and shorter feedback loops near the canopy. Traders, landlords, founders, financiers: all optimized for micro-time, arbitraging volatility itself. The city’s roots, meanwhile—the teachers, nurses, repairers—operate on macro-time: patient, recurrent, regenerative. The civic metabolism has decohered across its temporal layers.
+
+In physics, when oscillators fall out of phase, energy that could synchronize into coherence just burns as heat. In cities, it burns as rent, resentment, and road rage.
+
+That’s the crux of your “calculus of the commons”: a mismatch of temporal frequencies.
+– High-frequency extraction (fast profit, fast exit)
+– Low-frequency regeneration (slow learning, slow infrastructure)
+When the fast dominate, the system looks brilliant for a quarter and senile for a decade. When the slow are funded, the system looks wasteful now and invincible later.
+
+You can formalize the asymmetry like this:
+
+$$
+I(t) = \int_0^{T} \phi_i(\tau),e^{-\rho_i \tau},d\tau
+$$
+
+where ( \phi_i(\tau) ) is each agent’s contribution to civic intelligence over horizon $\tau$, and $\rho_i$ is their personal discount rate. The commons thrives when the weighted sum of $e^{-\rho_i \tau}$ across the population stays coherent—when enough agents keep their phase long.
+
+So “poorly distributed intelligence” becomes:
+**high variance in ρ across the field.**
+
+The canopy’s cognitive loops have sped past audibility; the roots’ loops still hum at human tempo. The task of governance is not to equalize wealth but to resynchronize time—to tax the fast and fund the slow until the civic waveform recombines.
+
+That’s what the maintenance tax really buys: *phase coherence.*
+
+The intelligent city isn’t the one with the tallest skyline; it’s the one whose frequencies stay in tune long enough to compose a future worth inhabiting.
+
  
 # D
 ## 1
