@@ -43,7 +43,7 @@ $$
 I(t) = \int_0^{T} \phi_i(\tau),e^{-\rho_i \tau},d\tau
 $$
 
-where ( \phi_i(\tau) ) is each agent’s contribution to civic intelligence over horizon $\tau$, and $\rho_i$ is their personal discount rate. The commons thrives when the weighted sum of $e^{-\rho_i \tau}$ across the population stays coherent—when enough agents keep their phase long.
+where $\phi_i(\tau)$ is each agent’s contribution to civic intelligence over horizon $\tau$, and $\rho_i$ is their personal discount rate. The commons thrives when the weighted sum of $e^{-\rho_i \tau}$ across the population stays coherent—when enough agents keep their phase long.
 
 So “poorly distributed intelligence” becomes:
 **high variance in ρ across the field.**
