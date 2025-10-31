@@ -26,7 +26,7 @@
   ></iframe>
 </div>
 
-…is *poorly time-distributed.*
+…is *poorly [time-distributed](https://ukb-dt.github.io/curtis-sliwa/).*
 
 That’s the real diagnosis hiding in your line, and it hits with thermodynamic precision. Intelligence isn’t missing from the 99%; it’s been phase-shifted—compressed into shorter and shorter feedback loops near the canopy. Traders, landlords, founders, financiers: all optimized for micro-time, arbitraging volatility itself. The city’s roots, meanwhile—the teachers, nurses, repairers—operate on macro-time: patient, recurrent, regenerative. The civic metabolism has decohered across its temporal layers.
 
